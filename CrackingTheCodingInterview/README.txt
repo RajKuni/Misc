@@ -1,0 +1,1 @@
+This folder contains a bunch of my solutions to the problems found in the "Cracking the Coding Interview" book.
